@@ -49,7 +49,7 @@ Why:
 
 The main thing that's needed for this program are the crystal parameters taken from the datasheet along with the current frequency read out by a buffered output from the board.
 
-### Neccary tools
+### Necessary tools
 * [Jupyter Notebook](https://jupyter.org/)
 
 <!-- GETTING STARTED -->
@@ -110,4 +110,8 @@ Project Link: [https://github.com/rthomp10/load-capacitor-assistant](https://git
 [license-url]: https://github.com/rthomp10/load-capacitor-assistant/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/abracon/
+<<<<<<< HEAD
 [product-screenshot]: bin\images\output.png
+=======
+[product-screenshot]: bin\images\output.svg
+>>>>>>> 3fda4d9a02b8c7a0dc7e0da05b82c98103fff83b
