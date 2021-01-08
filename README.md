@@ -49,7 +49,7 @@ Why:
 
 The main thing that's needed for this program are the crystal parameters taken from the datasheet along with the current frequency read out by a buffered output from the board.
 
-### Neccary tools
+### Necessary tools
 * [Jupyter Notebook](https://jupyter.org/)
 
 <!-- GETTING STARTED -->
