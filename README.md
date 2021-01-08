@@ -39,7 +39,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](bin\images\output.svg)
+[![Product Name Screen Shot][product-screenshot]](bin\images\output.png)
 
 This tool was created to make the life of board design engineeers a bit easier when it comes time to couple a crystal to an IC. This program helps ensure that the gain margin (safety factor) and frequency tolerance of the crystal is within the project's constraints. 
 
@@ -110,4 +110,4 @@ Project Link: [https://github.com/rthomp10/load-capacitor-assistant](https://git
 [license-url]: https://github.com/rthomp10/load-capacitor-assistant/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/abracon/
-[product-screenshot]: bin\images\output.svg
+[product-screenshot]: bin\images\output.png
