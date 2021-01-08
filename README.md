@@ -41,13 +41,13 @@
 
 [![Product Name Screen Shot][product-screenshot]](bin/images/output.png)
 
-This tool was created to make the life of board design engineeers a bit easier when it comes time to couple a crystal to an IC. This program helps ensure that the gain margin (safety factor) and frequency tolerance of the crystal is within the project's constraints. 
+This tool was created to make the life of board design engineers a bit easier when it comes time to couple a crystal to an IC. This program helps ensure that the gain margin (safety factor) and frequency tolerance of the crystal is within the project's constraints. 
 
 Why:
 * A lot of the math is lifted off your shoulders
-* It takes the guess work out of the equation
+* It takes the guesswork out of the equation
 
-The main thing that's needed for this program are the crystal parameters taken from the datasheet along with the current frequency read out by a buffered output from the board.
+The main thing that's needed for this program is the crystal parameters taken from the datasheet along with the current frequency read out by a buffered output from the board.
 
 ### Necessary tools
 * [Jupyter Notebook](https://jupyter.org/)
@@ -65,7 +65,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
